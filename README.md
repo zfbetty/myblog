@@ -8,4 +8,4 @@
 
 ## 如何预览
 
-点击https://zfbetty.github.io/myblog/即可预览
+点击https://zfbetty.github.io/myblog/  即可预览
